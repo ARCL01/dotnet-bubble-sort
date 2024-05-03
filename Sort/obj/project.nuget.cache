@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y1BU9aE1u+feEZpbnRoEct55bP1ChLExudMmdErwVDQYbOEi25PbtoDicoobPsZgFAW6i3JhC4nkkQ1rjPJrXA==",
+  "success": true,
+  "projectFilePath": "/home/daniel/Documents/dotnet console app/Sort/Sort.csproj",
+  "expectedPackageFiles": [
+    "/home/daniel/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.17/microsoft.netcore.app.host.linux-x64.7.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

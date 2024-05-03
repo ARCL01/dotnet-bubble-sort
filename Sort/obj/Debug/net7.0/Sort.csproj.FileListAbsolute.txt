@@ -1,0 +1,14 @@
+/home/daniel/Documents/dotnet console app/Sort/bin/Debug/net7.0/Sort
+/home/daniel/Documents/dotnet console app/Sort/bin/Debug/net7.0/Sort.deps.json
+/home/daniel/Documents/dotnet console app/Sort/bin/Debug/net7.0/Sort.runtimeconfig.json
+/home/daniel/Documents/dotnet console app/Sort/bin/Debug/net7.0/Sort.dll
+/home/daniel/Documents/dotnet console app/Sort/bin/Debug/net7.0/Sort.pdb
+/home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/Sort.GeneratedMSBuildEditorConfig.editorconfig
+/home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/Sort.AssemblyInfoInputs.cache
+/home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/Sort.AssemblyInfo.cs
+/home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/Sort.csproj.CoreCompileInputs.cache
+/home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/Sort.dll
+/home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/refint/Sort.dll
+/home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/Sort.pdb
+/home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/Sort.genruntimeconfig.cache
+/home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/ref/Sort.dll
