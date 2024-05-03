@@ -8,24 +8,32 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/home/daniel/.nuget/packages/": {}
+    "C:\\Users\\Daniel\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/daniel/Documents/dotnet console app/Sort/Sort.csproj",
+      "projectUniqueName": "C:\\Users\\Daniel\\OneDrive\\Git\\Sorting\\dotnet-console-app\\Sort\\Sort.csproj",
       "projectName": "Sort",
-      "projectPath": "/home/daniel/Documents/dotnet console app/Sort/Sort.csproj",
-      "packagesPath": "/home/daniel/.nuget/packages/",
-      "outputPath": "/home/daniel/Documents/dotnet console app/Sort/obj/",
+      "projectPath": "C:\\Users\\Daniel\\OneDrive\\Git\\Sorting\\dotnet-console-app\\Sort\\Sort.csproj",
+      "packagesPath": "C:\\Users\\Daniel\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Daniel\\OneDrive\\Git\\Sorting\\dotnet-console-app\\Sort\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/home/daniel/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Daniel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +46,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -54,18 +67,12 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
-        "downloadDependencies": [
-          {
-            "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[7.0.17, 7.0.17]"
-          }
-        ],
         "frameworkReferences": {
           "Microsoft.NETCore.App": {
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/lib64/dotnet/sdk/8.0.103/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -12,3 +12,18 @@
 /home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/Sort.pdb
 /home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/Sort.genruntimeconfig.cache
 /home/daniel/Documents/dotnet console app/Sort/obj/Debug/net7.0/ref/Sort.dll
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\bin\Debug\net7.0\Sort.exe
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\bin\Debug\net7.0\Sort.deps.json
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\bin\Debug\net7.0\Sort.runtimeconfig.json
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\bin\Debug\net7.0\Sort.dll
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\bin\Debug\net7.0\Sort.pdb
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\obj\Debug\net7.0\Sort.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\obj\Debug\net7.0\Sort.AssemblyInfoInputs.cache
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\obj\Debug\net7.0\Sort.AssemblyInfo.cs
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\obj\Debug\net7.0\Sort.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\obj\Debug\net7.0\Sort.sourcelink.json
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\obj\Debug\net7.0\Sort.dll
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\obj\Debug\net7.0\refint\Sort.dll
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\obj\Debug\net7.0\Sort.pdb
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\obj\Debug\net7.0\Sort.genruntimeconfig.cache
+C:\Users\Daniel\OneDrive\Git\Sorting\dotnet-console-app\Sort\obj\Debug\net7.0\ref\Sort.dll

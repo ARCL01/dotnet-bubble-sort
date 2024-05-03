@@ -21,12 +21,10 @@ while(true)
     }
     else
     {
-        Console.WriteLine("Zapisování dokončeno");
+        Console.WriteLine("Zapisování ukončeno nepovolenou hodnotou");
         break;
     }
 }
-
-
 for (int x = 0;x<=cisla.Count()-1;x++)
 {
     if(x<=index-1)
@@ -35,23 +33,50 @@ for (int x = 0;x<=cisla.Count()-1;x++)
     }      
 }
 
-// Min number
-Console.WriteLine("min to max");
-int min = 0;
-for (int x = 0;x<index;x++)
+int[] sorted =  new int[10];
+
+// Min to max sort
+Console.WriteLine("");
+Console.WriteLine($"Index: {index}");
+for (int y=0;y<index;y++)
 {
-    if (x==0)
+    for (int x=0;x<index-1;x++)
     {
-        min = cisla[x];
-    }
-    else
-    {
-        if (cisla[x]< min)
+        if (cisla[x] >= cisla[x+1])
         {
-            min = cisla[x];
+            int temp = cisla[x];
+            cisla[x] = cisla[x+1];
+            cisla[x+1] = temp;
         }
     }
 }
+for (int x = 0;x<=cisla.Count()-1;x++)
+{
+    if(x<=index-1)
+    {
+        Console.Write($"{cisla[x]}, ");
+    }      
+}
 
-
-Console.WriteLine("Třídění dokončeno");
+// Max to min sort
+Console.WriteLine("");
+Console.WriteLine($"Index: {index}");
+for (int y=0;y<index;y++)
+{
+    for (int x=0;x<index-1;x++)
+    {
+        if (cisla[x] <= cisla[x+1])
+        {
+            int temp = cisla[x];
+            cisla[x] = cisla[x+1];
+            cisla[x+1] = temp;
+        }
+    }
+}
+for (int x = 0;x<=cisla.Count()-1;x++)
+{
+    if(x<=index-1)
+    {
+        Console.Write($"{cisla[x]}, ");
+    }      
+}

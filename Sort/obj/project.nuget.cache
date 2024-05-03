@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Y1BU9aE1u+feEZpbnRoEct55bP1ChLExudMmdErwVDQYbOEi25PbtoDicoobPsZgFAW6i3JhC4nkkQ1rjPJrXA==",
+  "dgSpecHash": "8MDDUWW5kYWnvIixIinLt/Ree3EnzVO0z3EpMJ3NZAzMgqEhbIwyqE4w6Rt8lRzQaUaKAYhON/sRext0rRKnJg==",
   "success": true,
-  "projectFilePath": "/home/daniel/Documents/dotnet console app/Sort/Sort.csproj",
-  "expectedPackageFiles": [
-    "/home/daniel/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.17/microsoft.netcore.app.host.linux-x64.7.0.17.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Daniel\\OneDrive\\Git\\Sorting\\dotnet-console-app\\Sort\\Sort.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
